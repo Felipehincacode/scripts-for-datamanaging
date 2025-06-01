@@ -70,7 +70,16 @@ Funciona igual que la versión para Windows, pero adaptado a rutas en Ubuntu/Lin
 3. Introduce la ruta de la carpeta donde tienes tus fotos sin clasificar.
 4. ¡Deja que el script trabaje por ti!
 
+
 ---
 
-## 📂 Structure
+### 📌 Coming Soon
 
+- Darktable parametric adjustments
+- Flash detection filter
+- Auto-renaming by EXIF
+- Project folder scaffolding
+
+---
+
+🌱 Made with care by a curious mind.
